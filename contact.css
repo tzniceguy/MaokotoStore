@@ -1,0 +1,57 @@
+body{
+	padding: 20px;
+}
+nav{
+	padding: 21px;
+	margin: 27px;
+	background-color: #333;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 10px;
+}
+  
+nav a:hover {
+	background-color: #555;
+  }
+.container {
+    width: 100%;
+  }
+  
+  .address {
+    float: left;
+    width: 30%;
+  }
+  
+  .contact-form {
+    float: left;
+    width: 70%;
+	margin-left: auto;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  

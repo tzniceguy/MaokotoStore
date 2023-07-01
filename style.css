@@ -1,0 +1,82 @@
+body{
+	padding: 15px;
+}
+nav{
+	background-color: #333;
+	padding: 10px;
+}
+  
+nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 10px;
+}
+  
+nav a:hover {
+	background-color: #555;
+  }
+#page-container{
+	position: relative;
+	min-height: 100vh;
+	padding-bottom: 2.5rem; 
+}
+h1{
+	text-align: center;
+	text-decoration: overline;
+}
+
+.store img{
+	display: block;
+	width:80%;
+	height:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.products{
+	float: left;
+	margin: 3px;
+	background-color: inherit;
+	width: 16%;
+	padding: 50px;
+}
+footer{
+	bottom: 0%;
+	position:absolute;
+	width: 100%;
+	text-align: center;
+	padding: 5px;
+	height:2.5rem;
+	background-color: #333;
+}
+.team{
+	float: left;
+	margin:7px;
+}
+.container-1{
+	float: left;
+	margin: inherit;
+	border:2px solid #ccc;
+	width: 18.5%;
+}
+.container-1 img{
+	border-radius: 50%;
+	display: block;
+	width:70%;
+	height:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.patners{
+	float: left;
+	margin: 3px;
+	background-color: inherit;
+	width: 16%;
+	padding: 50px;
+}
+.patners img{
+	display: block;
+	width:80%;
+	height:50%;
+	margin-left: auto;
+	margin-right: auto;
+}
